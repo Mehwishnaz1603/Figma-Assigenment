@@ -1,8 +1,8 @@
 import Image from "next/image";
 import iphone14 from "./images/image.png";
-export default function Main_Banner() {
+export default function Banner_1() {
   return (
-    <div className="mainbanner">
+    <div className="banner_1">
       <div className="content">
         <h3>Pro. Beyond.</h3>
         <h1>

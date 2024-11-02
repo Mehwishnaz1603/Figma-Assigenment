@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 /* main_Banner CSS */
-.mainbanner {
+.banner_1 {
   width: 1440px;
   background-color: #211C24;
   display: flex;
